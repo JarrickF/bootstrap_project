@@ -246,3 +246,262 @@
 .spit {
     weight: 1px;
 }
+
+
+.latest_pics a{
+    text-decoration: none;
+    color: rgb(133,133,133);
+}
+
+.latest_pics a:hover{
+    text-decoration: none;
+    color: rgb(9, 167, 179)
+}
+
+.form{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    background-color: rgb(77,79,71);
+    font-size: 14px;
+    padding: 20px;
+}
+
+.latest_pics p{
+    text-align: center;
+}
+
+.latest_pics img {
+    margin-left: 40px;
+}
+
+.add_to_cart1 {
+    margin-left: 38px;
+    margin-right: 0px;
+}
+
+.add_to_cart2 {
+    margin-left: -2px;
+}
+
+.add_to_cart3 {
+    margin-left: 5px;
+}
+
+.add_to_cart4 {
+   margin-right: -70px;
+   align-content: right;
+}
+
+
+
+
+/* Welcome */
+
+.welcome a{
+    text-decoration: none;
+    color: rgb(9, 167, 179);
+}
+
+.welcome a:hover{
+    text-decoration: none;
+    color: rgb(18, 220, 235);
+}
+
+.welcome h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color: rgb(77,79,71);
+}
+
+
+.welcome p {
+    font-size: 12px;
+    color: rgb(133,133,133);
+}
+
+
+
+/* Bestsellers */
+
+.bestsellers a {
+    padding: 10px 18px;
+    outline-width: thin;
+    outline-style: solid;
+    outline-color: rgb(133,133,133);
+    background-color: rgb(230,230,230);
+    text-decoration: none;
+    font-weight: bold; 
+    color: rgb(133,133,133);
+}
+
+.bestsellers a:hover{
+    padding: 10px 18px;
+    outline-width: thin;
+    outline-style: solid;
+    outline-color: rgb(133,133,133);
+    background-color: rgb(25, 203, 212);
+    text-decoration: none;
+    font-weight: bold; 
+    color: white;
+}   
+
+.bestsellers_pics {
+    margin-bottom: 40px;
+}
+
+.bestsellers_pics img {
+    margin-left: 40px;
+}
+
+.bestsellers_pics a{
+    text-decoration: none;
+    color: rgb(133,133,133);
+}
+
+.bestsellers_pics a:hover{
+    text-decoration: none;
+    color: rgb(9, 167, 179)
+}
+
+.bestsellers_pics p{
+    text-align: center;
+}
+
+
+
+
+/* Manufacturers */
+.manufacturers {
+    margin-bottom: 50px;
+}
+
+.manufacturers a {
+    padding: 10px 18px;
+    outline-width: thin;
+    outline-style: solid;
+    outline-color: rgb(133,133,133);
+    background-color: rgb(230,230,230);
+    text-decoration: none;
+    font-weight: bold; 
+    color: rgb(133,133,133);
+}
+
+.manufacturers a:hover{
+    padding: 10px 18px;
+    outline-width: thin;
+    outline-style: solid;
+    outline-color: rgb(133,133,133);
+    background-color: rgb(25, 203, 212);
+    text-decoration: none;
+    font-weight: bold; 
+    color: white;
+}   
+
+
+
+/* Sign_up */
+.sign_up {
+    background-color: rgb(212, 212, 212);
+    padding: 10px 0px;
+
+}
+
+.sign_up h3{
+    font-family: 'Asap Condensed', sans-serif;
+    text-transform: uppercase;
+}
+
+.sign_up input[type=url]{
+    margin-top: 10px;
+    margin-left: 120px;
+    padding: 8px;
+    padding-right: 150px;
+    border-color: rgb(252, 222, 28);
+    background-color: rgb(212, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.sign_up input[type=submit]{
+    margin-top: 10px;
+    padding: 8px 16px;
+    border-color: rgb(252, 222, 28);
+    border-style: none;
+    border-radius: 3px;
+    background-color: rgb(77,79,71);
+    color: white;
+}
+
+
+/* Foot */
+.foot {
+    background-color: rgb(66,74,74);
+    padding-top: 75px;
+}
+
+.foot ul {
+    font-family: 'Asap Condensed', sans-serif;
+    list-style-type: square;
+    color: rgb(25, 203, 212);
+}
+
+.foot li {
+    color: rgb(25, 203, 212);
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.foot a {
+    text-decoration: none;
+    color: white;
+    font-weight: thin; 
+}
+
+.foot a:hover  {
+    text-decoration: none;
+    color: rgb(25, 203, 212);
+    font-weight: thin; 
+
+}
+
+.foot h3 {
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-left: 16px;
+    margin-bottom: 20px;
+
+}
+
+.foot img {
+    margin-left: 32px;
+    margin-right: -20px;
+    
+}
+
+.names {
+    margin-bottom: 20px;
+}
+.names a{
+    margin-left: 42px;
+}
+.like {
+    align-content: center; 
+}
+
+
+/* Icons */
+
+.icons ul{
+    list-style: none;
+    margin-left: 0px;
+}
+
+.icons li{
+    display: inline;
+}
+
+.icons {
+    bord
+}
+}
